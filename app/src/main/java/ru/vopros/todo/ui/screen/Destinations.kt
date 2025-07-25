@@ -11,3 +11,5 @@ object Main
 @Serializable
 object TodoList
 
+@Serializable
+object AddTodo
